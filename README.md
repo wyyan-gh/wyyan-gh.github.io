@@ -1,6 +1,6 @@
-# YY Blog :link: https://wyyan-gh.github.io 
-### :page_facing_up: [1](https://wyyan-gh.github.io/tag.html) 
+# YY Blog :link: http://blog.meekdai.com 
+### :page_facing_up: [1](http://blog.meekdai.com/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 4 
-### :alarm_clock: 2025-01-10 15:52:42 
+### :alarm_clock: 2025-01-10 18:02:32 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
