@@ -1,6 +1,6 @@
 {
     "title":"YY Blog",
-    "subTitle":" ",
+    "subTitle":"托管在GitHub的个人网站，用于信息发布，永远不会关闭。",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION":"last",
     "homeUrl":"https://blog.wyyan.us.kg",
@@ -8,7 +8,7 @@
     "onePageListNum":10,
     "singlePage":["link"],
     "commentLabelColor":"#006b75",
-    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "yearColorList":["777777"],
     "i18n":"CN",
     "UTC":8,
     "themeMode":"manual",
