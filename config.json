@@ -18,7 +18,7 @@
     "style":"",
     "script":"",
     "head":"",
-    "allHead":"",
+    "allHead":"<script src='https://wyyan.us.kg/Gmeek/plugins/GmeekVercount.js'></script>",
     "indexStyle":"",
     "indexScript":"",
     "showPostSource":1,
