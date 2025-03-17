@@ -4,6 +4,4 @@
 
 > 华为-直连：https://pan.wyyan.us.kg/
 
-> CF-代理：https://cpan.wyyan.ggff.net/
-
-> CF-隧道：https://tun.wyyan.ggff.net/
+> CF-直连：https://pan.wyyan.ggff.net/
